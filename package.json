@@ -1,0 +1,25 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "testProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokakin/test-project.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokakin/test-project/issues"
+  },
+  "homepage": "https://github.com/kokakin/test-project#readme",
+  "dependencies": {
+    "reactjs": "^1.0.0"
+  }
+}
